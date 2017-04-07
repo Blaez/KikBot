@@ -7,15 +7,16 @@
   "env": {
     "APP_NAME": {
       "description": "Copy App Name here",
-      "value": ""
+      "value": "anongoddessbotkek"
     },
     "KIK_API_KEY": {
       "description": "Kik Api key",
-      "value": ""
+      "value": "6628ca34-c98d-468d-90f3-3a12477e012d
+"
     },
     "APIAI_ACCESS_TOKEN": {
       "description": "Client access token for Api.ai",
-      "value": ""
+      "value": "7284c53248964f0d878bc171a23f7000"
     },
     "APIAI_LANG": {
       "description": "Agent language",
